@@ -1,0 +1,8 @@
+myvenv/
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+.DS_Store
+.env
+*.pdf
